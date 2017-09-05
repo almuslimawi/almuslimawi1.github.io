@@ -1,0 +1,55 @@
+body{
+    margin: 0 ;
+    padding: 0;
+}
+#About{
+    float: left;
+    width: 400px;
+    height: 600px;
+    border: 2px #9e9e9e solid;
+    color: white;
+    background-color: #503c43;
+}
+
+#About_Me{
+    font-size: 42px;
+    font-family: serif;
+    padding-top: 15px;
+    padding-bottom: 19px;
+    background-color: #694d75;
+    color: white;   
+}
+/*#About_Me:hover{
+    font-size: 42px;
+    font-family: serif;
+    font-style:bold;
+    padding-top: 15px;
+    padding-bottom: 19px; 
+    background-color: darkviolet;
+    color:black;
+}*/
+.icon_about{
+    width: 250px;
+    border: 1px #9E9E9E solid; 
+}
+.icon_about:hover{
+    border-radius: 20px;
+}
+p{
+    color: #9E9E9E;
+    text-align: center;
+    font-size: 24px;
+}
+
+
+
+a{
+    font-size: 21px;
+    color: wheat;
+    text-decoration: none;
+}
+a:hover{
+    font-size: 21px;
+    color:chocolate;
+    text-decoration: none;
+}
